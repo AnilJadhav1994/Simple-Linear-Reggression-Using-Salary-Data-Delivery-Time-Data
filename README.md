@@ -1,0 +1,1 @@
+# Simple-Linear-Reggression-Using-Salary-Data-Delivery-Time-Data
